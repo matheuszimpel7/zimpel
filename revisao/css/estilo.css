@@ -1,0 +1,23 @@
+
+/* regra para a tag header*/
+header{
+	text-align: center;
+	color: white;
+	
+
+}
+main{
+
+	background-color:greenyellow;
+	height: 75px 
+}
+footer{
+	background-color:limegreen; 
+	color: #fff;
+	height: 65px;
+	text-align: center;
+}
+ul li{display:inline-block;
+      color: white
+      font-size 10px
+}
